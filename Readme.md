@@ -1,7 +1,7 @@
 # Details
 This project is based on OOPs and data file handling concepts.
 
-## What this program does :
+## Features :
 1. Booking a train ticket
 2. Cancelling ticket
 3. Adding trains details by admin
