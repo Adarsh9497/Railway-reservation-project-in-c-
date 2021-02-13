@@ -14,9 +14,9 @@ We first enter in the admin mode and create trains and user details in the admin
 After the user is created, go to meanu > user mode .
 Login with  the user details that you created in the admin mode.
 In the user mode we get options like :
->Reserve a ticket
->cancel a ticktet
->train enquiry
+>Reserve a ticket,
+>cancel a ticktet,
+>train enquiry,
 >booked ticket enquiry
 
 the user can perform any following operations any no. of times.
